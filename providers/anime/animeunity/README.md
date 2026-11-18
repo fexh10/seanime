@@ -1,3 +1,3 @@
 # AnimeUnity
 
-Italian AnimeUnity online-stream provider for Seanime. Includes CSRF/session handling and VixCloud stream extraction. Based on the MIT-licensed provider by kRYstall9.
+Italian AnimeUnity online-stream provider for Seanime. Uses the AnimeUnity.cx archive and episode APIs, handles separate SUB ITA and ITA video variants, and extracts VixCloud HLS streams from Server1.
